@@ -6,7 +6,7 @@ public class vehicle {
     private String EngineType;
     private boolean Status;
 
-    public Vehicle(int id, String brand, String model, String color, String engineType, boolean status){
+    public vehicle(int id, String brand, String model, String color, String engineType, boolean status){
         this.Id = id;
         this.Brand = brand;
         this.Model = model;
